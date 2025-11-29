@@ -21,3 +21,12 @@ const BookingSection: React.FC<{ price: number }> = ({ price }) => {
 };
 
 export default BookingSection;
+
+
+// Explanation:
+
+// Displays nightly price, date pickers, total cost, and a “Reserve now” button.
+
+// Responsive & styled with Tailwind.
+
+// Total cost is calculated statically for now (price * 7), later can be dynamic

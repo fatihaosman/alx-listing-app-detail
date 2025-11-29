@@ -18,5 +18,12 @@ export interface PropertyProps {
   price: number;
   offers: Offers;
   image: string;
+  description: string; 
   discount: string;
+   reviews: {
+    name: string;
+    avatar: string;
+    rating: number;
+    comment: string;
+  }[];    
 }

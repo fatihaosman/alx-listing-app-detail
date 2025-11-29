@@ -1,0 +1,14 @@
+[00:00:07.946] Server  LOG      ✓ Ready in 6.5s
+[00:00:08.118] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:00:25.483] Server  LOG      ○ Compiling / ...
+[00:02:44.489] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <PropertyCard> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:02:44.490] Browser LOG     Refreshing page data due to server-side change
+[00:05:26.020] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./pages/index.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:17:23.448] Browser LOG     Refreshing page data due to server-side change
+[00:36:54.448] Browser LOG     Refreshing page data due to server-side change
+[00:37:43.462] Browser LOG     Refreshing page data due to server-side change
